@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/settings"
+        android:title="Settings for this menu"></item>
+
+    <item android:id="@+id/settings2"
+        android:title="Settings number 2"></item>
+
+    <item android:id="@+id/settings3"
+        android:title="Settings number 3"></item>
+
+    <item android:id="@+id/settings4"
+        android:title="Settings number 4"></item>
+
+
+</menu>
